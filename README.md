@@ -1,4 +1,4 @@
-# openWeather
+# open-weather
 
 ## Overview
 
