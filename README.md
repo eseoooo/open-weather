@@ -17,7 +17,7 @@ This app was created to allow users track the 5-day weather forecast for their c
 From the repo:
 
 1. Clone/download this project locally.
-2. Navigate to root folder(Open Weather Map\open-weather-map), run `npm install` in your command line/terminal to install all dependecies
+2. In the root folder, run `npm install` in your command line/terminal to install all dependecies
 3. Then run `npm start` in your command line/terminal
 4. Enjoy!
 
