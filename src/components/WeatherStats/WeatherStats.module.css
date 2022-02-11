@@ -1,0 +1,5 @@
+.WeatherStats {
+	display: flex;
+	gap: 2rem;
+	height: 25%;
+}

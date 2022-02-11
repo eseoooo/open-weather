@@ -1,0 +1,18 @@
+.WeatherStatCard {
+	flex: 1;
+	display: flex;
+	border-radius: 2.5rem;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	background: var(--secondary-bg-color);
+    box-shadow: 0 1px 3px 0 var(--secondary-bg-color), 0 4px 8px 3px var(--primary-bg-color);
+}
+
+.WeatherStatCard h2:last-child {
+    font-size: 2rem;
+}
+
+.WeatherStatCard h2:last-child::after{
+    content: "\00b0 C";
+}
