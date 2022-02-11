@@ -4,6 +4,8 @@
 
 This app was created to allow users track the 5-day weather forecast for their city. It pulls data from the [OpenWeather API](https://openweathermap.org/api)
 
+**APP SNAPSHOT**: [https://bit.ly/34ONXka](https://bit.ly/34ONXka)
+
 ## Features
 
 - Track the 5-day weather forecast for your city
