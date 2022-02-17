@@ -16,6 +16,8 @@ This app was created to allow users track the 5-day weather forecast for their c
 
 ## Running this project
 
+Live version: [Open Weather](https://weatheropened.netlify.app/)
+
 From the repo:
 
 1. Clone/download this project locally.
